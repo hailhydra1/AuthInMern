@@ -1,7 +1,7 @@
 .navbar {
 	width: 100%;
 	height: 70px;
-	background-color: #3bb19b;
+	background-image: linear-gradient(to right, #ff69b4, #65c8e0); /* Pink to Blue gradient */
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
